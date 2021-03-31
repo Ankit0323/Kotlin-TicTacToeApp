@@ -9,5 +9,6 @@ Select new > Import from version control\
 Choose git / github (git option recommended )\
 Paste url to repository i.e https://github.com/Ankit0323/TicTacToeApp  
 Click on clone.\
-Video tutorial\
+##Video tutorial\
 ![mytictactoe](https://user-images.githubusercontent.com/81551733/113170832-8f178400-9264-11eb-8168-6656f614cae0.gif)
+##Screenshots/
