@@ -12,5 +12,6 @@ Click on clone.\
 ## Video tutorial
 ![mytictactoe](https://user-images.githubusercontent.com/81551733/113170832-8f178400-9264-11eb-8168-6656f614cae0.gif)
 ## Screenshots
+![Screenshot_2021-03-31-00-50-05-304_com example tictactoe](https://user-images.githubusercontent.com/81551733/113180626-92177200-926e-11eb-826c-6dfeea16cfad.jpg)
 
 
