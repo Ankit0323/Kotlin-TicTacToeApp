@@ -3,7 +3,7 @@ Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns 
 
 Feature-\
  *Two Player\
-Getting started- [here](#place-13)\
+Getting started-\
 In android studio goto file\
 Select new > Import from version control\
 Choose git / github (git option recommended )\
