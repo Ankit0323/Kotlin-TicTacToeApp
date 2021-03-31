@@ -16,7 +16,6 @@ Click on clone.\
 ![Screenshot_2021-03-31-00-50-21-017_com example tictactoe](https://user-images.githubusercontent.com/81551733/113181210-2550a780-926f-11eb-8e03-255c9d9f692b.jpg) &nbsp;  &nbsp; &nbsp;
 ![Screenshot_2021-03-31-00-50-29-745_com example tictactoe](https://user-images.githubusercontent.com/81551733/113181213-271a6b00-926f-11eb-9d19-23b990f52c02.jpg) &nbsp;  &nbsp; &nbsp;\
 ![Screenshot_2021-03-31-00-50-52-744_com example tictactoe](https://user-images.githubusercontent.com/81551733/113181216-284b9800-926f-11eb-9caa-3716406b6090.jpg) &nbsp;  &nbsp; &nbsp;
-
 ![Screenshot_2021-03-31-00-52-29-415_com example tictactoe](https://user-images.githubusercontent.com/81551733/113181223-297cc500-926f-11eb-8a6d-d2ec662fbe3e.jpg)
 
 
