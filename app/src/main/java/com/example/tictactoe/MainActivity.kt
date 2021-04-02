@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
    var count=0;
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setTheme(R.style.Theme_TicTacToe)
+        setTheme(R.style.NoActionBar)
         binding=ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.reset.setOnClickListener(object: View.OnClickListener{
